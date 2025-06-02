@@ -10,3 +10,7 @@ const age = 21;
 const getAge = () => {
   console.log(age);
 };
+
+const fullName = () => {
+  console.log('Gundireddy avinash');
+};
