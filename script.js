@@ -18,3 +18,7 @@ const fullName = () => {
 const sahiBranch = () => {
   console.log('Sahi');
 };
+
+const getSahiFullName = () => {
+  console.log('Sahithi');
+};
