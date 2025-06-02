@@ -14,3 +14,7 @@ const getAge = () => {
 const fullName = () => {
   console.log('Gundireddy avinash');
 };
+
+const sahiBranch = () => {
+  console.log('Sahi');
+};
