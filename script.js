@@ -22,3 +22,7 @@ const sahiBranch = () => {
 const getSahiFullName = () => {
   console.log('Sahithi');
 };
+
+const sayHi = () => {
+  console.log("Hi");
+}
